@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+.bpr{
+    font-size: 30px;
+    margin: 5px;
+}

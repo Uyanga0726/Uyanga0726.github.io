@@ -1,0 +1,105 @@
+
+.header-review{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2vw;
+}
+.icon{
+    display: flex;
+    width: 2vw;
+}
+.product{
+    display: flex;
+    flex-direction: column;
+    margin: 5vw;
+}
+.head-product{
+    display: flex;
+    flex-direction: row;
+}
+.productpicture{
+    display: flex;
+}
+.productinformation{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5vw;
+}
+.productbrand{
+    display: flex;
+    flex-direction: row;
+    height: 3.5vw;
+    align-items: center;
+}
+.brandlogo{
+    display: flex;
+    margin-right: 1vw;
+}
+.brandname{
+    display: flex;
+    font-size: 8px;
+    font-weight: lighter;
+}
+.productname{
+
+}
+.ratingstarpoint{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.icon-star{
+    display: flex;
+    margin-right: 3px;
+}
+.ratingpoint{
+    display: flex;
+    font-size: 2vw;
+    opacity: 60%;
+}
+.uilchilgee{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3vw;
+}
+.head-uilchilgee{
+    display: flex;
+    font-weight: light;
+    font-size: 10px;
+}
+.productreview{
+    display: flex;
+    margin-top: 8vw;
+}
+.head-review{
+    display: flex;
+    flex-direction: column;
+}
+.reviews{
+    display: flex;
+    width: 90vw;
+    flex-direction: row;
+}
+.taalagdsanzuil{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 9
+}
+.taalagdsanzuils{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 8vw;
+}
+.taalagdaaguizuil{
+    display: flex;
+    flex-direction: columns;
+    flex-grow: 9
+}
+.taalagdaaguizuils{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 8vw;
+}

@@ -1,0 +1,127 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 3vw;
+    margin-left: 3vw;
+    position: sticky;
+}
+.search input{
+    width: 60vw;
+    height: 2vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 1vw;
+}
+.coverphoto{
+    display: flex;
+    height: 24vw;
+    width: 70vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-top: 1vw;
+    opacity: 50%;
+}
+.but{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.angilal{
+    margin-left: 5vw;
+}
+.s1{
+    display: flex;
+    background-color: #FFE3E3;
+    height: 7vw;
+    width: 7vw;
+}
+.s2{
+    margin-top: 1vw;
+    margin-left: 1vw;
+}
+.s3{
+    width: 4vw;
+}
+.s4{
+    width: 3vw;
+}
+.s5{
+    width: 2vw;
+}
+.a1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 40vw;
+    font-size: 2vw;
+}
+.a2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.a3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.a4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 40vw;
+    font-size: 1.5vw;
+}a5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.a6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.nerhome{
+    margin-left: 50px;
+    font-size: 25px;
+    font-style: unset;
+}
+.footer-basic{
+    padding: 5vw;
+    background-color: #FFE0F8;
+    margin: 15vh;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 650vw;
+}
+footerlogo{
+    margin-top: 3vh;
+    margin-left: 5vw;
+    font-size: 1,8vw;
+}
+flex1{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-left: 20vw;
+}
+.about{
+    /*margin-right: 30vw; */
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 16px;
+    margin-left: 23vw;
+}
+.p{
+    font-size: 45vw;
+    font-weight: normal;
+    margin: 0 0 0 0;
+}
+.iconsize{
+    displa
+}

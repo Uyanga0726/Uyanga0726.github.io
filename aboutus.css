@@ -1,0 +1,80 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-right: 5vw;
+}
+.nerhome{
+    font-size: 2vw;
+    color: black;
+}
+.search input{
+    width: 60vw;
+    height: 2vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+.cafes{
+    display: flex;
+    flex-direction: row;
+}
+.exp{
+    display: flex;
+    background-color:  #d3b1f0;
+    height: 20vw;
+    width: 34vw;
+    margin-left: 3vw;
+}
+.ex{
+    display: flex;
+    justify-content: center;
+    height: 10vw;
+    width: 20vw;
+    margin-left: 11vw;
+    font-size: 2vw;
+    margin-top: 3vw;
+}
+.e{
+    margin-left: 3vw;
+    height: 20vw;
+    width: 20vw;
+    background-color: #F0B0BE;
+}
+.girl{
+    margin-left: 3vw;
+}
+.s1{
+    display: flex;
+    transform: rotate(270deg);
+    font-size: 3vw;
+    margin-top: 4vw;
+    margin-right: 1vw;
+}
+.aboutus{
+    display: flex;
+    flex-direction: row;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    background-color: #b0bef0;
+    height: 25vw;
+    width: 55vw;
+    margin-left: 3vw;
+}
+.ab{
+    display: flex;
+    height: 10vw;
+    width: 30vw;
+    font-size: 2vw;
+    margin-left: 15vw;
+}
+.b{
+    display: flex;
+    width: 20vw;
+    height: 2vw;
+    font-size: 2vw;
+    margin-left: 20vw;
+    margin-top: 2vw;
+}
+

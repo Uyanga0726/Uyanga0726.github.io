@@ -1,0 +1,275 @@
+.head-review{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 3px;
+}
+.head-review-icon{
+    display: flex;
+    width: 1vw;
+    height: 1vw;
+}
+
+
+.product-information{
+    display: flex;
+    flex-direction: row;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 11px;
+}
+.ehniiheseg{
+    display: flex;
+    flex-direction: column;
+}
+.hoyordugaarheseg{
+    display: flex;
+    flex-direction: column;
+}
+
+.first-product-introduction{
+    display: flex;
+    flex-direction: row;
+    width: 45vw;
+    margin: 3vw;
+}
+.product-picture{
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
+.product{
+    display: flex;
+    flex-direction: column;
+}
+.brand{
+    display: flex;
+    height: 30px;
+    align-items: center;
+    flex-direction: row;
+}
+.brand-logo{
+    display: flex;
+    height: 30px;
+    margin-right: 5px;
+}
+.brand-name{
+    display: flex;
+    font-size: 10px;
+    opacity: 70%;
+}
+.name{
+    font-size: 30px;
+}
+.rating{
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+    align-items: center;
+    margin-bottom: 8px;
+}
+.rating-star{
+    display: flex;
+    width: 10px;
+    height: 10px;
+    margin-right: 7px;
+}
+.rating-point{
+    display: flex;
+    opacity: 70%;
+}
+.uilchilgee{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3vw;
+}
+.head-uilchilgee{
+    opacity: 80%;
+}
+
+.second-product-shopping{
+    display: flex;
+    flex-direction: column;
+    width: 45vw;
+    margin: 3vw;
+}
+.shopping{
+    display: flex;
+    flex-direction: row;
+}
+.head-hudaldanavah{
+    display: flex;
+    opacity: 70%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.icon-shopping{
+    display: flex;
+    width: 15px;
+    height: 15px;
+}
+.information-store{
+    display: flex;
+    margin-bottom: 30px;
+}
+.store-cloudnine{
+    display: flex;
+    flex-direction: row;
+}
+.store-logo-cloudnine{
+    display: flex;
+    height: 20px;
+    margin-right: 15px;
+}
+
+
+.third-product-review{
+    display: flex;
+    flex-direction: column;
+    width: 45vw;
+    margin: 3vw;
+}
+.head-setgegdel{
+    display: flex;
+    opacity: 70%;
+    margin-bottom: 10px;
+}
+.sides{
+    display: flex;
+    flex-direction: row;
+}
+.head-taalagdsanzuil{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2vw;
+}
+.icon-happy{
+    display: flex;
+    width: 15px;
+    height: 15px;
+    margin-right: 3px;
+}
+.body-taalagdsanzuil{
+    display: flex;
+    flex-direction: row;
+    width: 15vw;
+    font-size: 12px;
+    justify-content: space-between;
+    margin-right: 3vw;
+
+}
+.head-taalagdaaguizuil{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2vw;
+}
+.icon-sad{
+    display: flex;
+    width: 15px;
+    height: 15px;
+    margin-right: 3px;
+}
+.body-taalagdaaguizuil{
+    display: flex;
+    flex-direction: row;
+    width: 15vw;
+    font-size: 12px;
+    justify-content: space-between;
+    margin-right: 3vw;
+    
+}
+.delgerenguisetgegdel{
+    display: flex;
+    flex-direction: column;
+    margin-top: 6vw;
+}
+.body-d-setgegdel{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 4vw;
+}
+.user-profile{
+    display: flex;
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+}
+
+.fourth-product-ingredient{
+    display: flex;
+    flex-direction: column;
+    width: 45vw;
+    margin: 3vw;
+}
+.nairlaga{
+    display: flex;
+    flex-direction: column;
+}
+.head-nairlaga{
+    display: flex;
+    opacity: 70%;
+    margin-bottom: 10px;
+}
+.nairlagiin-ayulgui-baidal{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    
+}
+.head-nairlagiin-ayulgui-baidal{
+    display: flex;
+    flex-direction: column;
+    opacity: 70%;
+    margin-bottom: 10px;
+}
+.himi{
+    display: flex;
+    flex-direction: row;
+}
+.line-himi{
+    width: 100px;
+    height: 10px;
+    background-color: chartreuse;
+    border-left-style: solid;
+    margin-right: 10px;
+}
+.line-ewg{
+    width: 100px;
+    height: 10px;
+    background-color: rgb(247, 172, 11);
+    border-left-style: solid;
+    margin-right: 10px;
+}
+.line-harshil{
+    width: 100px;
+    height: 10px;
+    background-color: rgb(250, 77, 25);
+    border-left-style: solid;
+    margin-right: 10px;
+}
+
+.plus-button{
+    position: fixed;
+    display: flex;
+    margin-top: 20vw;
+    margin-left: 35vw;
+    margin-: vw;
+    width: 40px;
+    height: 40px;
+    bottom: -4px
+    right: 10px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
